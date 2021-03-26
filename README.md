@@ -59,3 +59,11 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Li Shang
+
+References
+==========
+
+https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py by Abram Hindle
+
+Stack overflow question answered by Anatoliy https://stackoverflow.com/a/1484514/12826510
